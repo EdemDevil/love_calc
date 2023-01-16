@@ -9,8 +9,8 @@ love_score = str(true) + str(love)
 int_love_score = int(love_score)
 
 if int_love_score <= 10 or int_love_score >= 90:
-    print(f"Ваш счёт {int_love_score}, вы совместимы как Кола и Ментос")
+    print(f"Ваш счёт {int_love_score}%, вы совместимы как Кола и Ментос")
 elif int_love_score >= 40 and int_love_score <= 50:
-    print(f"Ваш счёт {int_love_score}, вамм будет комфортно вместе")
+    print(f"Ваш счёт {int_love_score}%, вамм будет комфортно вместе")
 else:
     print(f"Ваш счёт {int_love_score}%")
