@@ -1,1 +1,1 @@
-# love_calc
+Helps assess your suitability.
